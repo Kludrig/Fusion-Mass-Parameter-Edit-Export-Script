@@ -16,6 +16,8 @@ Perfect for creating name plates with different letters, products in different s
 5. Select the extracted folder named **Mass Parameter Edit Export**  
 6. Click **Run**
 
+Optionally you can download the .py file, create your own script and replace the code with the downloaded .py file.
+
 ## Quick Start
 
 1. **Select your parameter** – choose which user parameter to modify  
