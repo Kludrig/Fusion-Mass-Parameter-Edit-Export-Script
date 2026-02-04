@@ -1,23 +1,28 @@
-##Batch Parameter Export for Fusion 360
+# Batch Parameter Export for Fusion 360
 
 Automatically export multiple file variations by cycling through parameter values.
-What it does
-Change a parameter → Export → Repeat for all variations you specify.
+
+## What it does
+
+Change a parameter → Export → Repeat for all variations you specify.  
 Perfect for creating name plates with different letters, products in different sizes, or any parametric variations.
 
-#Installation:
-Download the "script folder.rar" file
-Extract the folder inside to your fusion scripts folder, usually "C:\Users\Admin\AppData\Roaming\Autodesk\Autodesk Fusion 360\API\Scripts"
-In Fusion 360: Press Shift+S (Scripts and Add-Ins)
-Click the + button and select "Script og add-in from device"
-Select the folder you just extracted, named "Mass Parameter Edit Export"
-Click Run
+## Installation
 
-#Quick Start:
-Select your parameter - Choose which user parameter to modify
-Enter variations - Use a comma to seperate between values (e.g., A, B, C or 10, 20, 30)
-Choose format - STL, 3MF, OBJ, STEP, or F3D
-Select objects - Pick which bodies/components to export
-Browse folder - Choose where to save files
-Click OK - Sit back and watch it export
+1. Download the **script folder.rar** file  
+2. Extract the folder to your Fusion scripts directory, usually: C:\Users\Admin\AppData\Roaming\Autodesk\Autodesk Fusion 360\API\Scripts
+3. In Fusion 360: Press **Shift+S** (Scripts and Add-Ins)  
+4. Click the **+** button and select *"Script or add-in from device"*  
+5. Select the extracted folder named **Mass Parameter Edit Export**  
+6. Click **Run**
 
+## Quick Start
+
+1. **Select your parameter** – choose which user parameter to modify  
+2. **Enter variations** – separate values with commas  
+   - Example: `A, B, C`  
+   - Example: `10, 20, 30`
+3. **Choose format** – STL, 3MF, OBJ, STEP, or F3D  
+4. **Select objects** – pick bodies/components to export  
+5. **Browse folder** – choose save location  
+6. Click **OK**
